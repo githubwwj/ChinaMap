@@ -72,7 +72,7 @@ public class ProvinceItem {
             paint.setStyle(Paint.Style.STROKE);
             paint.setStrokeWidth(1);
             paint.setColor(Color.BLACK);
-            paint.setShadowLayer(6, 0, 0, Color.WHITE);
+            paint.setShadowLayer(8, 0, 0, Color.WHITE);
             canvas.drawPath(mPath, paint);
 
             //后面是填充
