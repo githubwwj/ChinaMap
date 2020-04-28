@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--    深天蓝-->
+    <color name="deep_sky_blue">#FF30A9E5</color>
+
+    <!--    蔚蓝-->
+    <color name="cerulean_blue">#FF239BD7</color>
+
+    <!--    浅天蓝-->
+    <color name="light_sky_blue">#FF80CBF1</color>
+
+    <!--    青色-->
+    <color name="cyan">#FF00FFFF</color>
+
+
+</resources>
